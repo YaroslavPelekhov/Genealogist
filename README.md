@@ -17,6 +17,28 @@ GRCh38), with a 1000 Genomes 26-population reference panel.
 
 ---
 
+## Two pipelines
+
+This repository contains **two independent pipelines** producing complementary
+results:
+
+| | Solution A | Solution B |
+|---|---|---|
+| **PCA** | Joint `plink2 --pca` on all 278 samples | Eigendecomposition of *ref-only* GRM; **students projected** (LASER-style) onto the reference axes |
+| **Kinship** | KING-robust (population-structure-safe) | VanRaden GRM off-diagonal (`plink2 --make-rel`) |
+| **Inbreeding F** | not computed | F<sub>i</sub> = GRM<sub>ii</sub> − 1 |
+| **Classification** | RF→kNN cascade on PCs | (uses Solution A's labels) |
+| **Ancestry proportions** | supervised NNLS on superpop allele freqs | (Solution A) |
+| **Strength** | robust to population stratification | students don't influence PC axes |
+| **Pages** | [main dashboard](https://glowing-raindrop-d5bac1.netlify.app/) | [Solution B page](https://glowing-raindrop-d5bac1.netlify.app/solution_b.html) |
+
+Cross-checked: KING ⊆ GRM (every KING-pair confirmed by GRM); GRM additionally
+over-calls 622 student-student "relations" due to population structure (which
+is the exact bias KING was designed to remove). Pearson r between KING and
+GRM over all student-student pairs = **0.90**. Top 4 PCs from the two
+pipelines correlate at r = 0.99 (PC1), 0.96 (PC2), 0.05 (PC3), 0.26 (PC4) —
+PC3+ diverge because joint PCA absorbs cohort-specific variance.
+
 ## Headline findings
 
 | | |
@@ -146,6 +168,8 @@ onto Netlify Drop again (or `netlify deploy --prod` from `site/`).
 
 ## Scripts
 
+**Solution A** (PCA + KING + RF/NNLS):
+
 | # | Script | Role |
 |---|---|---|
 | 01 | `01_pca_and_classify.py` | PCA + flat RF classifier (superseded by 05) |
@@ -157,6 +181,16 @@ onto Netlify Drop again (or `netlify deploy --prod` from `site/`).
 | 07 | `07_pedigree_pies.py` | Pedigree-style family trees with ancestry pie nodes |
 | 08 | `08_radial_views.py` | Radial "family crest", Sankey, clustered ancestry |
 | 09 | `09_build_site.py` | Netlify static-site assembly |
+
+**Solution B** (GRM-based):
+
+| # | Script | Role |
+|---|---|---|
+| B01 | `grm_01_decompose.py` | Eigendecomposition of ref-only GRM + LASER-style student projection |
+| B02 | `grm_02_kinship_inbreeding.py` | F<sub>inbreeding</sub> from GRM diagonal + kinship cross-check vs KING |
+| B03 | `grm_03_visuals.py` | Heatmap, projected PCA, F-coef plot, GRM-vs-KING scatter |
+| B04 | `grm_04_build_site.py` | `site/solution_b.html` page + banner on index |
+| —  | `inspect_external_grm.py` | Verify supplied `ref_grm.rel` matches our computation |
 
 ## Method notes
 
