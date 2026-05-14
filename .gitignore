@@ -1,0 +1,69 @@
+# --- Large input data (do NOT commit, distribute separately) ---
+*.vcf
+*.vcf.gz
+*.bcf
+*.bgen
+
+# --- PLINK intermediate / output directory ---
+work/
+*.pgen
+*.psam
+*.pvar
+*.pvar.zst
+*.bed
+*.bim
+*.fam
+*.afreq
+*.raw
+*.king
+*.kin0
+*.eigenvec
+*.eigenval
+*.prune.in
+*.prune.out
+*.log
+*.nosex
+
+# --- Bundled tools (downloaded by setup script) ---
+tools/
+!tools/.gitkeep
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+*~
+
+# --- Editors / IDE ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# --- Local secrets / configs ---
+.env
+*.local
+
+# --- Microsoft Word / Excel scratch ---
+~$*.docx
+~$*.xlsx
+
+# --- Source description doc (kept locally) ---
+Цифровой генеалог.docx
+*.docx

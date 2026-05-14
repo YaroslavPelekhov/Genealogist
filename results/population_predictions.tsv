@@ -1,0 +1,71 @@
+sample_id	pred_superpop	pred_superpop_name	pred_superpop_prob	pred_pop1	pred_pop1_name	pred_pop1_prob	pred_pop2	pred_pop2_prob	pred_pop3	pred_pop3_prob
+s1	EAS	East Asia	0.463	CHS	Southern Han Chinese, China	0.185	PUR	0.151	FIN	0.143
+s2	EUR	Europe	1.000	CEU	Utah residents with Northern and Western European ancestry	0.600	GBR	0.400	STU	0.000
+s3	EUR	Europe	0.800	CEU	Utah residents with Northern and Western European ancestry	0.320	IBS	0.320	GBR	0.160
+s4	EUR	Europe	0.992	CEU	Utah residents with Northern and Western European ancestry	0.397	IBS	0.397	GBR	0.198
+s5	AMR	America	0.547	CLM	Colombian in Medellin, Colombia	0.328	PJL	0.121	MXL	0.109
+s6	AFR	Africa	0.357	ASW	African Ancestry in Southwest US	0.285	CLM	0.180	PUR	0.120
+s8	EUR	Europe	0.875	CEU	Utah residents with Northern and Western European ancestry	0.525	IBS	0.175	GBR	0.175
+s9	SAS	South Asia	0.990	ITU	Indian Telugu in the UK	0.594	STU	0.396	TSI	0.008
+s10	EAS	East Asia	0.385	KHV	Kinh in Ho Chi Minh City, Vietnam	0.154	JPT	0.154	ACB	0.149
+s13	AMR	America	0.543	CLM	Colombian in Medellin, Colombia	0.326	PJL	0.120	MXL	0.109
+s14	SAS	South Asia	0.468	STU	Sri Lankan Tamil in the UK	0.375	PUR	0.202	GIH	0.094
+s16	EAS	East Asia	0.458	CHS	Southern Han Chinese, China	0.183	PUR	0.153	FIN	0.105
+s17	AMR	America	0.545	CLM	Colombian in Medellin, Colombia	0.327	MXL	0.218	PJL	0.152
+s18	EUR	Europe	0.855	CEU	Utah residents with Northern and Western European ancestry	0.513	GBR	0.342	CLM	0.087
+s19	EUR	Europe	0.847	CEU	Utah residents with Northern and Western European ancestry	0.339	GBR	0.339	FIN	0.169
+s20	EUR	Europe	1.000	CEU	Utah residents with Northern and Western European ancestry	0.400	IBS	0.400	GBR	0.200
+s24	EUR	Europe	0.968	CEU	Utah residents with Northern and Western European ancestry	0.387	GBR	0.387	IBS	0.194
+s26	SAS	South Asia	0.517	PJL	Punjabi in Lahore, Pakistan	0.413	PUR	0.170	BEB	0.103
+s27	SAS	South Asia	0.990	ITU	Indian Telugu in the UK	0.594	STU	0.396	TSI	0.008
+s28	AFR	Africa	0.988	YRI	Yoruba in Ibadan, Nigeria	0.395	MSL	0.395	ESN	0.198
+s29	EUR	Europe	0.982	CEU	Utah residents with Northern and Western European ancestry	0.589	GBR	0.393	CLM	0.011
+s30	EAS	East Asia	0.460	CHS	Southern Han Chinese, China	0.276	PUR	0.151	FIN	0.143
+s31	EUR	Europe	0.877	GBR	British in England and Scotland	0.526	CEU	0.351	CLM	0.074
+s32	SAS	South Asia	0.987	ITU	Indian Telugu in the UK	0.592	STU	0.395	TSI	0.008
+s33	EAS	East Asia	0.502	CHS	Southern Han Chinese, China	0.301	FIN	0.255	CDX	0.100
+s34	EAS	East Asia	0.460	CHS	Southern Han Chinese, China	0.276	PUR	0.153	FIN	0.105
+s35	EUR	Europe	1.000	CEU	Utah residents with Northern and Western European ancestry	0.600	IBS	0.200	GBR	0.200
+s36	EUR	Europe	0.862	GBR	British in England and Scotland	0.517	CEU	0.345	CLM	0.083
+s37	EUR	Europe	0.865	CEU	Utah residents with Northern and Western European ancestry	0.519	IBS	0.173	GBR	0.173
+s38	AFR	Africa	0.938	YRI	Yoruba in Ibadan, Nigeria	0.375	MSL	0.375	ESN	0.188
+s41	EUR	Europe	0.982	CEU	Utah residents with Northern and Western European ancestry	0.393	GBR	0.393	IBS	0.196
+s42	SAS	South Asia	0.280	PJL	Punjabi in Lahore, Pakistan	0.168	ASW	0.164	PUR	0.120
+s43	AFR	Africa	0.295	ASW	African Ancestry in Southwest US	0.177	PJL	0.157	PUR	0.121
+s46	AFR	Africa	0.275	ASW	African Ancestry in Southwest US	0.165	PJL	0.160	PUR	0.125
+s47	SAS	South Asia	0.420	PJL	Punjabi in Lahore, Pakistan	0.252	PUR	0.187	BEB	0.168
+s48	SAS	South Asia	0.510	PJL	Punjabi in Lahore, Pakistan	0.408	PUR	0.231	BEB	0.102
+s49	AFR	Africa	0.953	YRI	Yoruba in Ibadan, Nigeria	0.381	MSL	0.381	ESN	0.191
+s50	AMR	America	0.540	CLM	Colombian in Medellin, Colombia	0.324	FIN	0.123	PJL	0.117
+s51	AMR	America	0.847	PUR	Puerto Rican in Puerto Rico	0.339	CLM	0.339	MXL	0.169
+s52	EUR	Europe	0.993	GBR	British in England and Scotland	0.596	CEU	0.397	CLM	0.004
+s53	EUR	Europe	0.998	CEU	Utah residents with Northern and Western European ancestry	0.399	GBR	0.399	IBS	0.200
+s54	SAS	South Asia	0.990	ITU	Indian Telugu in the UK	0.792	STU	0.198	TSI	0.008
+s55	EUR	Europe	0.992	CEU	Utah residents with Northern and Western European ancestry	0.397	IBS	0.397	GBR	0.198
+s57	SAS	South Asia	0.412	PJL	Punjabi in Lahore, Pakistan	0.247	PUR	0.185	BEB	0.165
+s58	EUR	Europe	1.000	GBR	British in England and Scotland	0.600	CEU	0.400	STU	0.000
+s59	AFR	Africa	0.282	ASW	African Ancestry in Southwest US	0.169	PJL	0.165	PUR	0.125
+s60	EUR	Europe	0.990	CEU	Utah residents with Northern and Western European ancestry	0.396	IBS	0.396	GBR	0.198
+s61	AFR	Africa	0.310	ASW	African Ancestry in Southwest US	0.186	PJL	0.152	PUR	0.139
+s64	EUR	Europe	0.872	IBS	Iberian populations in Spain	0.523	GBR	0.174	CEU	0.174
+s66	EUR	Europe	0.983	CEU	Utah residents with Northern and Western European ancestry	0.393	IBS	0.393	GBR	0.197
+s67	SAS	South Asia	0.417	STU	Sri Lankan Tamil in the UK	0.250	PUR	0.231	PJL	0.083
+s68	SAS	South Asia	0.457	STU	Sri Lankan Tamil in the UK	0.365	PUR	0.273	GIH	0.091
+s69	EUR	Europe	0.348	IBS	Iberian populations in Spain	0.209	PJL	0.192	TSI	0.139
+s73	SAS	South Asia	0.418	STU	Sri Lankan Tamil in the UK	0.335	PUR	0.232	GIH	0.084
+s74	AFR	Africa	0.865	MSL	Mende in Sierra Leone	0.519	YRI	0.173	ESN	0.173
+s75	AFR	Africa	0.920	YRI	Yoruba in Ibadan, Nigeria	0.368	MSL	0.368	ESN	0.184
+s76	EAS	East Asia	0.383	ACB	African Caribbean in Barbados	0.162	KHV	0.153	JPT	0.153
+s77	EUR	Europe	0.978	CEU	Utah residents with Northern and Western European ancestry	0.783	GBR	0.196	CLM	0.013
+s78	EUR	Europe	0.875	CEU	Utah residents with Northern and Western European ancestry	0.525	IBS	0.175	GBR	0.175
+s79	AFR	Africa	0.955	MSL	Mende in Sierra Leone	0.573	YRI	0.191	ESN	0.191
+s82	EUR	Europe	0.868	CEU	Utah residents with Northern and Western European ancestry	0.521	GBR	0.347	CLM	0.079
+s83	AMR	America	0.545	CLM	Colombian in Medellin, Colombia	0.327	PJL	0.121	MXL	0.109
+s84	AFR	Africa	0.350	ASW	African Ancestry in Southwest US	0.280	CLM	0.188	PUR	0.125
+s85	AMR	America	0.547	CLM	Colombian in Medellin, Colombia	0.328	MXL	0.219	PJL	0.121
+s87	EAS	East Asia	0.338	ACB	African Caribbean in Barbados	0.164	KHV	0.135	JPT	0.135
+s91	EAS	East Asia	0.463	CHS	Southern Han Chinese, China	0.278	PUR	0.149	FIN	0.143
+s92	SAS	South Asia	0.322	PJL	Punjabi in Lahore, Pakistan	0.193	ASW	0.157	PUR	0.142
+s93	SAS	South Asia	0.322	PJL	Punjabi in Lahore, Pakistan	0.193	ASW	0.157	PUR	0.142
+s94	EAS	East Asia	0.458	CHS	Southern Han Chinese, China	0.183	PUR	0.153	FIN	0.105
+s95	SAS	South Asia	0.417	STU	Sri Lankan Tamil in the UK	0.250	PUR	0.231	PJL	0.083

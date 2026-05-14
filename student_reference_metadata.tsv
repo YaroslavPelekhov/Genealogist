@@ -1,0 +1,209 @@
+sample_id	population	population_name	superpopulation	superpopulation_name
+ref001	ACB	African Caribbean in Barbados	AFR	Africa
+ref002	ACB	African Caribbean in Barbados	AFR	Africa
+ref003	ACB	African Caribbean in Barbados	AFR	Africa
+ref004	ACB	African Caribbean in Barbados	AFR	Africa
+ref005	ACB	African Caribbean in Barbados	AFR	Africa
+ref006	ACB	African Caribbean in Barbados	AFR	Africa
+ref007	ACB	African Caribbean in Barbados	AFR	Africa
+ref008	ACB	African Caribbean in Barbados	AFR	Africa
+ref009	ASW	African Ancestry in Southwest US	AFR	Africa
+ref010	ASW	African Ancestry in Southwest US	AFR	Africa
+ref011	ASW	African Ancestry in Southwest US	AFR	Africa
+ref012	ASW	African Ancestry in Southwest US	AFR	Africa
+ref013	ASW	African Ancestry in Southwest US	AFR	Africa
+ref014	ASW	African Ancestry in Southwest US	AFR	Africa
+ref015	ASW	African Ancestry in Southwest US	AFR	Africa
+ref016	ASW	African Ancestry in Southwest US	AFR	Africa
+ref017	ESN	Esan in Nigeria	AFR	Africa
+ref018	ESN	Esan in Nigeria	AFR	Africa
+ref019	ESN	Esan in Nigeria	AFR	Africa
+ref020	ESN	Esan in Nigeria	AFR	Africa
+ref021	ESN	Esan in Nigeria	AFR	Africa
+ref022	ESN	Esan in Nigeria	AFR	Africa
+ref023	ESN	Esan in Nigeria	AFR	Africa
+ref024	ESN	Esan in Nigeria	AFR	Africa
+ref025	GWD	Gambian in Western Division, The Gambia	AFR	Africa
+ref026	GWD	Gambian in Western Division, The Gambia	AFR	Africa
+ref027	GWD	Gambian in Western Division, The Gambia	AFR	Africa
+ref028	GWD	Gambian in Western Division, The Gambia	AFR	Africa
+ref029	GWD	Gambian in Western Division, The Gambia	AFR	Africa
+ref030	GWD	Gambian in Western Division, The Gambia	AFR	Africa
+ref031	GWD	Gambian in Western Division, The Gambia	AFR	Africa
+ref032	GWD	Gambian in Western Division, The Gambia	AFR	Africa
+ref033	LWK	Luhya in Webuye, Kenya	AFR	Africa
+ref034	LWK	Luhya in Webuye, Kenya	AFR	Africa
+ref035	LWK	Luhya in Webuye, Kenya	AFR	Africa
+ref036	LWK	Luhya in Webuye, Kenya	AFR	Africa
+ref037	LWK	Luhya in Webuye, Kenya	AFR	Africa
+ref038	LWK	Luhya in Webuye, Kenya	AFR	Africa
+ref039	LWK	Luhya in Webuye, Kenya	AFR	Africa
+ref040	LWK	Luhya in Webuye, Kenya	AFR	Africa
+ref041	MSL	Mende in Sierra Leone	AFR	Africa
+ref042	MSL	Mende in Sierra Leone	AFR	Africa
+ref043	MSL	Mende in Sierra Leone	AFR	Africa
+ref044	MSL	Mende in Sierra Leone	AFR	Africa
+ref045	MSL	Mende in Sierra Leone	AFR	Africa
+ref046	MSL	Mende in Sierra Leone	AFR	Africa
+ref047	MSL	Mende in Sierra Leone	AFR	Africa
+ref048	MSL	Mende in Sierra Leone	AFR	Africa
+ref049	YRI	Yoruba in Ibadan, Nigeria	AFR	Africa
+ref050	YRI	Yoruba in Ibadan, Nigeria	AFR	Africa
+ref051	YRI	Yoruba in Ibadan, Nigeria	AFR	Africa
+ref052	YRI	Yoruba in Ibadan, Nigeria	AFR	Africa
+ref053	YRI	Yoruba in Ibadan, Nigeria	AFR	Africa
+ref054	YRI	Yoruba in Ibadan, Nigeria	AFR	Africa
+ref055	YRI	Yoruba in Ibadan, Nigeria	AFR	Africa
+ref056	YRI	Yoruba in Ibadan, Nigeria	AFR	Africa
+ref057	CLM	Colombian in Medellin, Colombia	AMR	America
+ref058	CLM	Colombian in Medellin, Colombia	AMR	America
+ref059	CLM	Colombian in Medellin, Colombia	AMR	America
+ref060	CLM	Colombian in Medellin, Colombia	AMR	America
+ref061	CLM	Colombian in Medellin, Colombia	AMR	America
+ref062	CLM	Colombian in Medellin, Colombia	AMR	America
+ref063	CLM	Colombian in Medellin, Colombia	AMR	America
+ref064	CLM	Colombian in Medellin, Colombia	AMR	America
+ref065	MXL	Mexican Ancestry in Los Angeles, California	AMR	America
+ref066	MXL	Mexican Ancestry in Los Angeles, California	AMR	America
+ref067	MXL	Mexican Ancestry in Los Angeles, California	AMR	America
+ref068	MXL	Mexican Ancestry in Los Angeles, California	AMR	America
+ref069	MXL	Mexican Ancestry in Los Angeles, California	AMR	America
+ref070	MXL	Mexican Ancestry in Los Angeles, California	AMR	America
+ref071	MXL	Mexican Ancestry in Los Angeles, California	AMR	America
+ref072	MXL	Mexican Ancestry in Los Angeles, California	AMR	America
+ref073	PEL	Peruvian in Lima, Peru	AMR	America
+ref074	PEL	Peruvian in Lima, Peru	AMR	America
+ref075	PEL	Peruvian in Lima, Peru	AMR	America
+ref076	PEL	Peruvian in Lima, Peru	AMR	America
+ref077	PEL	Peruvian in Lima, Peru	AMR	America
+ref078	PEL	Peruvian in Lima, Peru	AMR	America
+ref079	PEL	Peruvian in Lima, Peru	AMR	America
+ref080	PEL	Peruvian in Lima, Peru	AMR	America
+ref081	PUR	Puerto Rican in Puerto Rico	AMR	America
+ref082	PUR	Puerto Rican in Puerto Rico	AMR	America
+ref083	PUR	Puerto Rican in Puerto Rico	AMR	America
+ref084	PUR	Puerto Rican in Puerto Rico	AMR	America
+ref085	PUR	Puerto Rican in Puerto Rico	AMR	America
+ref086	PUR	Puerto Rican in Puerto Rico	AMR	America
+ref087	PUR	Puerto Rican in Puerto Rico	AMR	America
+ref088	PUR	Puerto Rican in Puerto Rico	AMR	America
+ref089	CDX	Chinese Dai in Xishuangbanna, China	EAS	East Asia
+ref090	CDX	Chinese Dai in Xishuangbanna, China	EAS	East Asia
+ref091	CDX	Chinese Dai in Xishuangbanna, China	EAS	East Asia
+ref092	CDX	Chinese Dai in Xishuangbanna, China	EAS	East Asia
+ref093	CDX	Chinese Dai in Xishuangbanna, China	EAS	East Asia
+ref094	CDX	Chinese Dai in Xishuangbanna, China	EAS	East Asia
+ref095	CDX	Chinese Dai in Xishuangbanna, China	EAS	East Asia
+ref096	CDX	Chinese Dai in Xishuangbanna, China	EAS	East Asia
+ref097	CHB	Han Chinese in Beijing, China	EAS	East Asia
+ref098	CHB	Han Chinese in Beijing, China	EAS	East Asia
+ref099	CHB	Han Chinese in Beijing, China	EAS	East Asia
+ref100	CHB	Han Chinese in Beijing, China	EAS	East Asia
+ref101	CHB	Han Chinese in Beijing, China	EAS	East Asia
+ref102	CHB	Han Chinese in Beijing, China	EAS	East Asia
+ref103	CHB	Han Chinese in Beijing, China	EAS	East Asia
+ref104	CHB	Han Chinese in Beijing, China	EAS	East Asia
+ref105	CHS	Southern Han Chinese, China	EAS	East Asia
+ref106	CHS	Southern Han Chinese, China	EAS	East Asia
+ref107	CHS	Southern Han Chinese, China	EAS	East Asia
+ref108	CHS	Southern Han Chinese, China	EAS	East Asia
+ref109	CHS	Southern Han Chinese, China	EAS	East Asia
+ref110	CHS	Southern Han Chinese, China	EAS	East Asia
+ref111	CHS	Southern Han Chinese, China	EAS	East Asia
+ref112	CHS	Southern Han Chinese, China	EAS	East Asia
+ref113	JPT	Japanese in Tokyo, Japan	EAS	East Asia
+ref114	JPT	Japanese in Tokyo, Japan	EAS	East Asia
+ref115	JPT	Japanese in Tokyo, Japan	EAS	East Asia
+ref116	JPT	Japanese in Tokyo, Japan	EAS	East Asia
+ref117	JPT	Japanese in Tokyo, Japan	EAS	East Asia
+ref118	JPT	Japanese in Tokyo, Japan	EAS	East Asia
+ref119	JPT	Japanese in Tokyo, Japan	EAS	East Asia
+ref120	JPT	Japanese in Tokyo, Japan	EAS	East Asia
+ref121	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	East Asia
+ref122	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	East Asia
+ref123	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	East Asia
+ref124	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	East Asia
+ref125	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	East Asia
+ref126	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	East Asia
+ref127	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	East Asia
+ref128	KHV	Kinh in Ho Chi Minh City, Vietnam	EAS	East Asia
+ref129	CEU	Utah residents with Northern and Western European ancestry	EUR	Europe
+ref130	CEU	Utah residents with Northern and Western European ancestry	EUR	Europe
+ref131	CEU	Utah residents with Northern and Western European ancestry	EUR	Europe
+ref132	CEU	Utah residents with Northern and Western European ancestry	EUR	Europe
+ref133	CEU	Utah residents with Northern and Western European ancestry	EUR	Europe
+ref134	CEU	Utah residents with Northern and Western European ancestry	EUR	Europe
+ref135	CEU	Utah residents with Northern and Western European ancestry	EUR	Europe
+ref136	CEU	Utah residents with Northern and Western European ancestry	EUR	Europe
+ref137	FIN	Finnish in Finland	EUR	Europe
+ref138	FIN	Finnish in Finland	EUR	Europe
+ref139	FIN	Finnish in Finland	EUR	Europe
+ref140	FIN	Finnish in Finland	EUR	Europe
+ref141	FIN	Finnish in Finland	EUR	Europe
+ref142	FIN	Finnish in Finland	EUR	Europe
+ref143	FIN	Finnish in Finland	EUR	Europe
+ref144	FIN	Finnish in Finland	EUR	Europe
+ref145	GBR	British in England and Scotland	EUR	Europe
+ref146	GBR	British in England and Scotland	EUR	Europe
+ref147	GBR	British in England and Scotland	EUR	Europe
+ref148	GBR	British in England and Scotland	EUR	Europe
+ref149	GBR	British in England and Scotland	EUR	Europe
+ref150	GBR	British in England and Scotland	EUR	Europe
+ref151	GBR	British in England and Scotland	EUR	Europe
+ref152	GBR	British in England and Scotland	EUR	Europe
+ref153	IBS	Iberian populations in Spain	EUR	Europe
+ref154	IBS	Iberian populations in Spain	EUR	Europe
+ref155	IBS	Iberian populations in Spain	EUR	Europe
+ref156	IBS	Iberian populations in Spain	EUR	Europe
+ref157	IBS	Iberian populations in Spain	EUR	Europe
+ref158	IBS	Iberian populations in Spain	EUR	Europe
+ref159	IBS	Iberian populations in Spain	EUR	Europe
+ref160	IBS	Iberian populations in Spain	EUR	Europe
+ref161	TSI	Toscani in Italy	EUR	Europe
+ref162	TSI	Toscani in Italy	EUR	Europe
+ref163	TSI	Toscani in Italy	EUR	Europe
+ref164	TSI	Toscani in Italy	EUR	Europe
+ref165	TSI	Toscani in Italy	EUR	Europe
+ref166	TSI	Toscani in Italy	EUR	Europe
+ref167	TSI	Toscani in Italy	EUR	Europe
+ref168	TSI	Toscani in Italy	EUR	Europe
+ref169	BEB	Bengali in Bangladesh	SAS	South Asia
+ref170	BEB	Bengali in Bangladesh	SAS	South Asia
+ref171	BEB	Bengali in Bangladesh	SAS	South Asia
+ref172	BEB	Bengali in Bangladesh	SAS	South Asia
+ref173	BEB	Bengali in Bangladesh	SAS	South Asia
+ref174	BEB	Bengali in Bangladesh	SAS	South Asia
+ref175	BEB	Bengali in Bangladesh	SAS	South Asia
+ref176	BEB	Bengali in Bangladesh	SAS	South Asia
+ref177	GIH	Gujarati Indian in Houston, TX	SAS	South Asia
+ref178	GIH	Gujarati Indian in Houston, TX	SAS	South Asia
+ref179	GIH	Gujarati Indian in Houston, TX	SAS	South Asia
+ref180	GIH	Gujarati Indian in Houston, TX	SAS	South Asia
+ref181	GIH	Gujarati Indian in Houston, TX	SAS	South Asia
+ref182	GIH	Gujarati Indian in Houston, TX	SAS	South Asia
+ref183	GIH	Gujarati Indian in Houston, TX	SAS	South Asia
+ref184	GIH	Gujarati Indian in Houston, TX	SAS	South Asia
+ref185	ITU	Indian Telugu in the UK	SAS	South Asia
+ref186	ITU	Indian Telugu in the UK	SAS	South Asia
+ref187	ITU	Indian Telugu in the UK	SAS	South Asia
+ref188	ITU	Indian Telugu in the UK	SAS	South Asia
+ref189	ITU	Indian Telugu in the UK	SAS	South Asia
+ref190	ITU	Indian Telugu in the UK	SAS	South Asia
+ref191	ITU	Indian Telugu in the UK	SAS	South Asia
+ref192	ITU	Indian Telugu in the UK	SAS	South Asia
+ref193	PJL	Punjabi in Lahore, Pakistan	SAS	South Asia
+ref194	PJL	Punjabi in Lahore, Pakistan	SAS	South Asia
+ref195	PJL	Punjabi in Lahore, Pakistan	SAS	South Asia
+ref196	PJL	Punjabi in Lahore, Pakistan	SAS	South Asia
+ref197	PJL	Punjabi in Lahore, Pakistan	SAS	South Asia
+ref198	PJL	Punjabi in Lahore, Pakistan	SAS	South Asia
+ref199	PJL	Punjabi in Lahore, Pakistan	SAS	South Asia
+ref200	PJL	Punjabi in Lahore, Pakistan	SAS	South Asia
+ref201	STU	Sri Lankan Tamil in the UK	SAS	South Asia
+ref202	STU	Sri Lankan Tamil in the UK	SAS	South Asia
+ref203	STU	Sri Lankan Tamil in the UK	SAS	South Asia
+ref204	STU	Sri Lankan Tamil in the UK	SAS	South Asia
+ref205	STU	Sri Lankan Tamil in the UK	SAS	South Asia
+ref206	STU	Sri Lankan Tamil in the UK	SAS	South Asia
+ref207	STU	Sri Lankan Tamil in the UK	SAS	South Asia
+ref208	STU	Sri Lankan Tamil in the UK	SAS	South Asia
