@@ -4,7 +4,6 @@ Population structure, ancestry composition and kinship reconstruction for 70
 anonymous students from a 14 GB multi-sample VCF (5.9 M variants, 278 samples,
 GRCh38), with a 1000 Genomes 26-population reference panel.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/REPLACE_WITH_SITE_ID/deploy-status)](https://app.netlify.com/sites/glowing-raindrop-d5bac1/deploys)
 [![Live demo](https://img.shields.io/badge/live%20demo-glowing--raindrop--d5bac1.netlify.app-7cd0ff)](https://glowing-raindrop-d5bac1.netlify.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
@@ -120,11 +119,6 @@ cd site && netlify deploy --prod
 
 To refresh the deployed site after re-running the pipeline, just drop `site/`
 onto Netlify Drop again (or `netlify deploy --prod` from `site/`).
-
-**Getting the Netlify badge:** find your **Site API ID** in
-*Site settings → General → Site information → API ID* (a UUID like
-`1a2b3c4d-…`) and replace `REPLACE_WITH_SITE_ID` in the badge URLs at the top
-of this README.
 
 ## Repository layout
 

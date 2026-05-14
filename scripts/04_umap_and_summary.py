@@ -65,9 +65,22 @@ for _, r in kin.iterrows():
     if r["KINSHIP"] >= 0.0884:  # 1st/2nd degree only for family-finding
         G.add_edge(r["ID1"], r["ID2"])
 fam_id = {}
-for i, comp in enumerate(nx.connected_components(G)):
-    for n in comp:
-        fam_id[n] = i + 1 if len(comp) > 1 else 0
+# Sort components deterministically by min(sample_id) so family_id is stable
+# across runs (Python set iteration order is not stable).
+def _nat_key(s):
+    # numeric sort: s5 < s10 < s100
+    return (s[0], int(s[1:])) if s[1:].isdigit() else (s,)
+comps = [sorted(c) for c in nx.connected_components(G)]
+comps.sort(key=lambda c: _nat_key(c[0]))
+next_id = 1
+for comp in comps:
+    if len(comp) > 1:
+        for n in comp:
+            fam_id[n] = next_id
+        next_id += 1
+    else:
+        for n in comp:
+            fam_id[n] = 0
 summary["family_id"] = summary["sample_id"].map(fam_id).fillna(0).astype(int)
 
 deg = dict(G.degree())

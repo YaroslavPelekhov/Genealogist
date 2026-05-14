@@ -58,7 +58,8 @@ for tsv in ["student_summary.tsv", "population_predictions.tsv",
     src = RES / tsv
     if src.exists():
         shutil.copy(src, DATA / tsv)
-shutil.copy(RES / "REPORT.md", SITE / "REPORT.md")
+if (RES / "REPORT.md").exists():
+    shutil.copy(RES / "REPORT.md", SITE / "REPORT.md")
 
 # --- Build interactive figures (re-use logic from 06_dashboard.py) ---
 SUPERPOP_COLORS = {
